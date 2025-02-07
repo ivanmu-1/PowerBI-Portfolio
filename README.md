@@ -11,7 +11,7 @@ An interactive Power BI dashboard analyzing **Adidas sales data**, providing ins
 
 **[View the Adidas Sales Dashboard](https://github.com/ivanmu-1/PowerBI-Portfolio/tree/main/Adidas%20Sales)**  
 
----
+
 
 ### **Louisville Metro Employee Salary Dashboard**  
 
@@ -20,7 +20,7 @@ A Power BI dashboard exploring **40,000+ salary records** from **Louisville Metr
 
 **[View the Louisville Metro Employee Salary Dashboard](https://github.com/ivanmu-1/PowerBI-Portfolio/tree/main/Louisville%20Metro)**  
 
----
+
 
 ## Skills & Tools Used  
 * **Power BI** – Data Visualization & Dashboard Design
