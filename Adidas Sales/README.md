@@ -19,14 +19,14 @@ The dataset includes extensive sales records, providing a detailed view of Adida
 
 ## Key Insights
 * **Sales Trends Over Time**:
-- Total sales have shown steady growth, with peak periods aligning with major product launches and seasonal promotions.
-- The highest sales volumes occur in key metropolitan areas, with online sales contributing significantly to overall revenue.
+  - Total sales have shown steady growth, with peak periods aligning with major product launches and seasonal promotions.
+  - The highest sales volumes occur in key metropolitan areas, with online sales contributing significantly to overall revenue.
 * **Regional and Retail Analysis**:
-- North America is one of the strongest markets, with cities like Los Angeles and New York leading in sales.
-- Retailers with a high-performing sales volume include both Adidas-owned stores and third-party distributors.
+  - North America is one of the strongest markets, with cities like Los Angeles and New York leading in sales.
+  - Retailers with a high-performing sales volume include both Adidas-owned stores and third-party distributors.
 * **Product and Sales Channel Performance**:
-- Certain product categories, such as footwear and sports apparel, drive the majority of revenue.
-- Online sales continue to grow, accounting for a significant share of total units sold.
+  - Certain product categories, such as footwear and sports apparel, drive the majority of revenue.
+  - Online sales continue to grow, accounting for a significant share of total units sold.
 
 ## Recommendations
 * **Optimize Retail Strategy**: Invest in high-performing regions and retailers while exploring expansion opportunities in emerging markets.
