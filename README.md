@@ -4,19 +4,21 @@ Welcome to my **Power BI portfolio**, where I showcase **interactive dashboards*
 
 ## 🚀 Projects  
 
-### 1️⃣ **Adidas Sales Dashboard**  
-📌 **Description:**  
+### **Adidas Sales Dashboard**  
+
+**Description:**  
 An interactive Power BI dashboard analyzing **Adidas sales data**, providing insights into **revenue, top-selling products, regional performance, and customer trends.**  
 
-🔗 **[View the Adidas Sales Dashboard]()**  
+🔗 **[View the Adidas Sales Dashboard](https://github.com/ivanmu-1/PowerBI-Portfolio/tree/main/Adidas%20Sales)**  
 
 ---
 
-### 2️⃣ **Louisville Metro Employee Salary Dashboard**  
-📌 **Description:**  
+### **Louisville Metro Employee Salary Dashboard**  
+
+**Description:**  
 A Power BI dashboard exploring **40,000+ salary records** from **Louisville Metro Government employees**, highlighting **salary trends, department headcounts, overtime distribution, and top earners.**  
 
-🔗 **[View the Louisville Metro Employee Salary Dashboard](#)**  
+🔗 **[View the Louisville Metro Employee Salary Dashboard](https://github.com/ivanmu-1/PowerBI-Portfolio/tree/main/Louisville%20Metro)**  
 
 ---
 
@@ -25,8 +27,8 @@ A Power BI dashboard exploring **40,000+ salary records** from **Louisville Metr
 ✅ **DAX** – Calculations & Custom Measures   
 ✅ **Data Cleaning & Modeling**  
 
-Feel free to explore my dashboards and reach out for feedback or collaboration! 🚀  
+Feel free to explore my dashboards and reach out for feedback or collaboration!   
 
-📩 **Contact:** [Your Email or LinkedIn]  
+📩 **Contact:** [ivan.mac711@gmail.com]  
 
 
