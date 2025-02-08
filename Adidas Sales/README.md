@@ -6,7 +6,7 @@
 
 <img width="1469" alt="Image" src="https://github.com/user-attachments/assets/71838c05-6470-4061-8c85-10f0273a629e" />
 
-# :athletic_shoe: Adidas Sales Performance Dashboard
+# Adidas Sales Performance Dashboard :athletic_shoe:
 This project provides an in-depth analysis of Adidas' sales performance across different regions, retailers, and product categories. By leveraging sales data, the dashboard offers insights into revenue trends, unit sales, and profit margins. The goal is to identify key sales drivers, highlight top-performing locations, and support data-driven decision-making for Adidas' business strategy.
 
 ## Important Terminology:
