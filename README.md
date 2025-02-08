@@ -1,9 +1,11 @@
 
 ![Image](https://github.com/user-attachments/assets/8dff1c6c-85e4-458d-a573-83dd2a38e2a8)
 
+https://camo.githubusercontent.com/917168979884ed8edc108608916efea5ae07f77076d615e54d74c2d0e6166e3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b
+
 # 📊 Power BI Portfolio
 
-Welcome to my Power BI portfolio, where I showcase my Power BI dashboards that provide **data-driven insights** across various industries.  
+Welcome to my Power BI portfolio, where I showcase my collection of Power BI dashboards and projects highlighting my expertise in business intelligence, data visualization, and analytics using Power BI.
 
 ## Projects  
 
