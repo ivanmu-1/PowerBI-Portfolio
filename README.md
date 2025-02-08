@@ -1,3 +1,6 @@
+
+![Image](https://github.com/user-attachments/assets/8dff1c6c-85e4-458d-a573-83dd2a38e2a8)
+
 # 📊 Power BI Portfolio
 
 Welcome to my Power BI portfolio, where I showcase my Power BI dashboards that provide **data-driven insights** across various industries.  
