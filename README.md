@@ -32,6 +32,6 @@ A Power BI dashboard exploring **40,000+ salary records** from **Louisville Metr
 
 Feel free to explore my dashboards and reach out for feedback or collaboration!   
 
-📩 **Contact:** [ivan.mac711@gmail.com]  
+📩 **Contact:** ivan.mac711@gmail.com
 
 
