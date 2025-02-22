@@ -1,4 +1,6 @@
-
+ <p align="center">
+  <img width="400" height="400" src="https://github.com/user-attachments/assets/8dff1c6c-85e4-458d-a573-83dd2a38e2a8">
+</p>
 ![Image](https://github.com/user-attachments/assets/8dff1c6c-85e4-458d-a573-83dd2a38e2a8)
 
 # Power BI Portfolio
