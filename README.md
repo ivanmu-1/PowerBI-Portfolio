@@ -1,5 +1,5 @@
  <p align="center">
-  <img width="600" height="300" src="https://github.com/user-attachments/assets/8dff1c6c-85e4-458d-a573-83dd2a38e2a8">
+  <img width="540" height="340" src="https://github.com/user-attachments/assets/8dff1c6c-85e4-458d-a573-83dd2a38e2a8">
 </p>
 
 # Power BI Portfolio
