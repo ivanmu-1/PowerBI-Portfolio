@@ -1,8 +1,7 @@
+# Power BI Portfolio
  <p align="center">
   <img width="700" height="370" src="https://github.com/user-attachments/assets/8dff1c6c-85e4-458d-a573-83dd2a38e2a8">
 </p>
-
-# Power BI Portfolio
 
 Welcome to my Power BI portfolio, where I showcase my collection of Power BI dashboards and projects highlighting my expertise in business intelligence, data visualization, and analytics using Power BI.
 
