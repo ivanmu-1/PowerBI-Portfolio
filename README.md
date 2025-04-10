@@ -28,7 +28,6 @@ A Power BI dashboard exploring 40,000+ salary records from Louisville Metro Gove
 ## Skills & Tools Used  
 * **Power BI** – Data Visualization & Dashboard Design
 * **DAX** – Calculations & Custom Measures
-* **Data Cleaning & Modeling**  
 
 Feel free to explore my dashboards and reach out for feedback or collaboration!   
 
