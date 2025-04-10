@@ -10,7 +10,7 @@ Welcome to my Power BI portfolio, where I showcase my collection of Power BI das
 ### **Adidas Sales Dashboard**  
 
 **Description:**  
-An interactive Power BI dashboard analyzing **Adidas sales data**, providing insights into **revenue, top-selling products, regional performance, and customer trends.**  
+An interactive Power BI dashboard analyzing Adidas sales data, providing insights into revenue, top-selling products, regional performance, and customer trends.  
 
 **[View the Adidas Sales Dashboard](https://github.com/ivanmu-1/PowerBI-Portfolio/tree/main/Adidas%20Sales)**  
 
@@ -19,7 +19,7 @@ An interactive Power BI dashboard analyzing **Adidas sales data**, providing ins
 ### **Louisville Metro Employee Salary Dashboard**  
 
 **Description:**  
-A Power BI dashboard exploring **40,000+ salary records** from **Louisville Metro Government employees**, highlighting **salary trends, department headcounts, overtime distribution, and top earners.**  
+A Power BI dashboard exploring 40,000+ salary records from Louisville Metro Government employees, highlighting salary trends, department headcounts, overtime distribution, and top earners. 
 
 **[View the Louisville Metro Employee Salary Dashboard](https://github.com/ivanmu-1/PowerBI-Portfolio/tree/main/Louisville%20Metro)**  
 
