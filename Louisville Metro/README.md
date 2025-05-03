@@ -1,6 +1,6 @@
 <img width="1565" alt="Image" src="https://github.com/user-attachments/assets/0b1c6a32-5acb-47f9-a66b-b4c6e001a6a0" />
 
-# 📊 Louisville Metro Employee Salary Dashboard
+# Louisville Metro Employee Salary Dashboard
 
 This project analyzes salary data for employees of **Louisville Metro Government**, covering over **40,000 records** across **73 departments**. The goal is to provide insights into **salary distribution**, **department headcounts**, **overtime trends**, and **top-earning positions**. This analysis helps improve transparency, understand salary trends, and support data-driven decisions regarding public sector compensation.
 
